@@ -20,6 +20,7 @@
 # APP
 #--------------------------------------------------------------------
 
+# bot.key =
 # app.baseURL = ''
 # app.forceGlobalSecureRequests = false
 
